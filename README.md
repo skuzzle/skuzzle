@@ -1,3 +1,4 @@
+[![Twitter Follow](https://img.shields.io/twitter/follow/ProjectPolly.svg?style=social)](https://twitter.com/ProjectPolly)
 ### Hi there 👋
 
 <!--
